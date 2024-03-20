@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "avS0sdF8GkKUEcMn/MhhJNzV9ZU/2HR4dc/kL8aRENXyWoARERHfr0d3Mljm2lC1lNGY4iNhGifbVh9sK/wIyg==",
+  "success": true,
+  "projectFilePath": "E:\\course.net\\Course_OOP\\Exam2_OOP\\Exam-System_Console_App-master\\Exam-System_Console_App-master\\OOPExam\\OOPExam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

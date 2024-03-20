@@ -1,0 +1,14 @@
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\bin\Debug\net6.0\OOPExam.exe
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\bin\Debug\net6.0\OOPExam.deps.json
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\bin\Debug\net6.0\OOPExam.runtimeconfig.json
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\bin\Debug\net6.0\OOPExam.dll
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\bin\Debug\net6.0\OOPExam.pdb
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\obj\Debug\net6.0\OOPExam.GeneratedMSBuildEditorConfig.editorconfig
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\obj\Debug\net6.0\OOPExam.AssemblyInfoInputs.cache
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\obj\Debug\net6.0\OOPExam.AssemblyInfo.cs
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\obj\Debug\net6.0\OOPExam.csproj.CoreCompileInputs.cache
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\obj\Debug\net6.0\OOPExam.dll
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\obj\Debug\net6.0\refint\OOPExam.dll
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\obj\Debug\net6.0\OOPExam.pdb
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\obj\Debug\net6.0\OOPExam.genruntimeconfig.cache
+E:\course.net\Course_OOP\Exam2_OOP\Exam-System_Console_App-master\Exam-System_Console_App-master\OOPExam\obj\Debug\net6.0\ref\OOPExam.dll
